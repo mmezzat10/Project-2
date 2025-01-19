@@ -1,7 +1,7 @@
 # Project-2: Sales Dashboard Analysis
 
 ## Description
-This project provides a comprehensive analysis of sales data across different countries and categories. It includes various performance metrics and visualizations.
+This project comprehensively analyzes sales data across different countries and categories. It includes various performance metrics and visualizations.
 
 ## Features
 - Total Sales and Quantity Sold

@@ -43,7 +43,3 @@ This project provides a comprehensive analysis of sales data across different co
 - **What’s Included**: Filter Options (Year, Month, Country, Category).
 - **Core Business Relevance**: Enables detailed analysis by specific segments, enhancing the flexibility of the dashboard.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Project-2.git
